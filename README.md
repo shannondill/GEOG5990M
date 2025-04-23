@@ -3,10 +3,15 @@
 ## Coursework: final assignment
 Spatial data science report
 
+## Background / Context for the project
+## Aim of the code
 
 ## Data Sources:
 Leeds Cycle Data - https://datamillnorth.org/dataset/e1dmk/leeds-annual-cycle-growth
 
-Leeds MSOA Boundary Data (don't know to use yet or not) - https://www.data.gov.uk/dataset/677a5164-3a9e-4752-b8e6-5744d2b280ec/middle-layer-super-output-areas-december-2021-boundaries-ew-bgc-v3
-
 Leeds LSOA Boundary Data - https://geoportal.statistics.gov.uk/datasets/ons::lower-layer-super-output-areas-december-2021-boundaries-ew-bfc-v10-2/about
+
+Leeds LSOA Geometry Data - https://github.com/FrancescaPontin/GEOG5990M/raw/refs/heads/main/data/week_6_7/leeds_travel_to_work_mode_distance.geojson
+
+## Files needed to run analysis:
+
